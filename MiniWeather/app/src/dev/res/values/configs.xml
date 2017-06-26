@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="API_URL">https://api.apixu.com</string>
+    <string name="API_KEY">fa6077cb112b409084435621172306</string>
+    <!-- Export pinner from domain using https://network-security.haipq.com/ -->
+    <string name="API_CERTIFICATE_PINNERS">sha256/zIFAENmu0WXYBBigzZH+JjGk42RkaW9NxmyZ2LSdlB0=,sha256/8Rw90Ej3Ttt8RRkrg+WYDS9n7IS03bk5bjP/UXPtaY8=,sha256/Ko8tivDrEjiY90yGasP6ZpBU4jwXvHqVvQI0GS3GNdA=</string>
+</resources>

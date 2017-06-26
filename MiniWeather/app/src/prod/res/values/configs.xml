@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="API_URL">https://api.apixu.com/v1</string>
+    <string name="API_KEY">Your API KEY</string>
+    <string name="API_CERTIFICATE_PINNERS">Your Pinner</string>
+</resources>
